@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "httpie",
+    "thumbor",
+    "minigrep",
+    "webserver_multi",
+    "the-rust",
+]
